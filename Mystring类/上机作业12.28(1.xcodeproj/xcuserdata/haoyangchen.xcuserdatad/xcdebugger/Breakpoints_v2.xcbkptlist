@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73FC5309-3AD7-4270-9FE5-593B175242D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E718AD0-C3DD-4F65-9804-E434964D5E8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "Mystring(c)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E718AD0-C3DD-4F65-9804-E434964D5E8C - 67b8ea388847cdf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mystring::Mystring(char*)"
+                  moduleName = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haoyangchen/Desktop/%E9%99%88%E6%98%8A%E9%98%B3/coding/C++%20learning%20process%20/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "9E718AD0-C3DD-4F65-9804-E434964D5E8C - 67b8ea388847cdf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mystring::Mystring(char*)"
+                  moduleName = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haoyangchen/Desktop/%E9%99%88%E6%98%8A%E9%98%B3/coding/C++%20learning%20process%20/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A31087B-21D5-41B0-AA66-F2AB798F12BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "Mystring(num, c)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A31087B-21D5-41B0-AA66-F2AB798F12BD - 8a9e4f9888b5aa9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mystring::Mystring(int, char)"
+                  moduleName = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haoyangchen/Desktop/%E9%99%88%E6%98%8A%E9%98%B3/coding/C++%20learning%20process%20/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "3A31087B-21D5-41B0-AA66-F2AB798F12BD - 8a9e4f9888b5aa9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mystring::Mystring(int, char)"
+                  moduleName = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haoyangchen/Desktop/%E9%99%88%E6%98%8A%E9%98%B3/coding/C++%20learning%20process%20/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A12.28(1/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13822734-8684-4387-A4A6-D0AA309F1525"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C2ADA53-9DAC-44E9-9434-7D3E3297E004"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF2868B-3BC2-4EBA-A088-8D5F7EFA58FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32DF13AD-94F7-4927-BA05-3D44B0C61A85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E55358-1A2E-4848-B2B5-383EDB1205FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55F0D0DF-122B-4906-A480-667F6DF5A83D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBC5C7BB-EF8B-406E-8112-D3E8AF389C45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x4e0a;&#x673a;&#x4f5c;&#x4e1a;12.28(1/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

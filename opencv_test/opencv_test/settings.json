@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "/Users/yunyi/opt/anaconda3/bin/python",
+    //settings.json
+    "code-runner.executorMap": {
+        "c": "cd $dir && make  && ./$fileNameWithoutExt && make clean",
+        "cpp": "cd $dir && make  && ./$fileNameWithoutExt && make clean"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderLineHighlight": "all",
+    "editor.formatOnSave": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.enableAppInsights": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "[makefile]": {
+        "editor.insertSpaces": true
+    },
+    "C_Cpp.default.includePath": [
+        "/usr/local/Cellar/opencv/4.2.0_1/include"
+    ]
+}
+
